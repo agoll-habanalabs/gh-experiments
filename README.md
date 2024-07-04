@@ -1,5 +1,6 @@
 # gh-experiments
 
 ```mermaid
-Label1 --> Label2
+graph TD;
+Label1 --> Label2;
 ```
