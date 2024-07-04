@@ -1,5 +1,8 @@
 # gh-experiments
 
+Inline $formula=1+1$
+$$formula=1+1&&
+
 ```mermaid
 graph TD;
 Label1 --> Label2;
