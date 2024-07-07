@@ -15,4 +15,4 @@ https://github.com/agoll-habanalabs/gh-experiments/blob/939ff93d868fbdfd71116b7a
 
 https://github.com/agoll-habanalabs/gh-experiments/blob/2f38c560e52871ab949749e8088f14c55b4f98df/some_code.cpp#L3-L6
 
-[Another page](another.md)
+[Another page](pages/another.md)
